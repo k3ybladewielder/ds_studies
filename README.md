@@ -1,5 +1,5 @@
 # Data Science Study
-Roadmap de estudo para Data Science
+Estudo de tópicos avançados para Data Science
 
 ## Algebra Linear
 
